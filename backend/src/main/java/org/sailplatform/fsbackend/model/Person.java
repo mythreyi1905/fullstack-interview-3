@@ -1,4 +1,4 @@
-package org.sailplatform.fsbacked.model;
+package org.sailplatform.fsbackend.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

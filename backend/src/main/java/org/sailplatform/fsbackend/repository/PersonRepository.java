@@ -1,6 +1,6 @@
-package org.sailplatform.fsbacked.repository;
+package org.sailplatform.fsbackend.repository;
 
-import org.sailplatform.fsbacked.model.Person;
+import org.sailplatform.fsbackend.model.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

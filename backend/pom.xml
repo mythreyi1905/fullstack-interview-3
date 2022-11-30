@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.sailplatform</groupId>
-	<artifactId>fsbacked</artifactId>
+	<artifactId>fsbackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fsbacked</name>
+	<name>fsbackend</name>
 	<description>Basic backend project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

@@ -1,9 +1,9 @@
-package org.sailplatform.fsbacked.service;
+package org.sailplatform.fsbackend.service;
 
 import java.util.List;
 
-import org.sailplatform.fsbacked.model.Person;
-import org.sailplatform.fsbacked.repository.PersonRepository;
+import org.sailplatform.fsbackend.model.Person;
+import org.sailplatform.fsbackend.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

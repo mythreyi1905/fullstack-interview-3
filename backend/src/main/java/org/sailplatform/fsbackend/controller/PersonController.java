@@ -1,9 +1,9 @@
-package org.sailplatform.fsbacked.controller;
+package org.sailplatform.fsbackend.controller;
 
 import java.util.List;
 
-import org.sailplatform.fsbacked.model.Person;
-import org.sailplatform.fsbacked.service.PersonService;
+import org.sailplatform.fsbackend.model.Person;
+import org.sailplatform.fsbackend.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

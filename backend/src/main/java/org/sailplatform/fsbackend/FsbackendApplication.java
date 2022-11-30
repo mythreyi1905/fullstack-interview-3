@@ -1,13 +1,13 @@
-package org.sailplatform.fsbacked;
+package org.sailplatform.fsbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FsbackedApplication {
+public class FsbackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FsbackedApplication.class, args);
+		SpringApplication.run(FsbackendApplication.class, args);
 	}
 
 }

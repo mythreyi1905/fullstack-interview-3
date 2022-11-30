@@ -10,7 +10,7 @@ Follow the frontend's readme to run it and ensure it's running
 
 3. Add some Data
 
-Using the swagger, (http://localhost:8080/swagger-ui/index.html, add some data to the H2 database by 'Trying out` the `add` endpoint.
+Using swagger, (http://localhost:8080/swagger-ui/index.html, add some data to the H2 database with the `Try it out` feature on the `add` endpoint.
 
 Swagger should return `200 OK` and the new person object every time you `Execute` the request
 
@@ -22,7 +22,7 @@ Navigate top the default frontned page http://localhost:3000/ and ensure the sam
 
 5. Complete the Frontend's Add View
 
-Just as the ListView calls the backend's /all endpoint using axios, complete the AddView component by using axios to call the /add endpoint then return to the list view.
+Just as the ListView calls the backend's `/all` endpoint using axios, complete the AddView component by using axios to call the `/add` endpoint then return to the list view.
 
 6. Add a Frontend test
 
