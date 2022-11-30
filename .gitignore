@@ -1,0 +1,7 @@
+.vscode
+
+target
+
+fsbackend.db.mv.db
+
+node_modules
