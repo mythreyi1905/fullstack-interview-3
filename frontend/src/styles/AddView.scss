@@ -1,0 +1,22 @@
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    height: 80vh;
+    gap: 2rem;
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+
+    .fieldsContainer{
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+}
